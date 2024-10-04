@@ -1,5 +1,5 @@
 # Simulación de Robot Móvil Diferencial 🚗🤖
-[Simulación del Robot](assets/simulacion.png)
+![Simulación del Robot](assets/simulacion.png)
 ## Descripción
 
 Este proyecto es una simulación interactiva de un **robot móvil diferencial** utilizando **Python**, **Pygame** y **Matplotlib**. El robot se mueve en un entorno 2D y es capaz de planificar rutas evitando obstáculos para llegar a un objetivo especificado por el usuario.
