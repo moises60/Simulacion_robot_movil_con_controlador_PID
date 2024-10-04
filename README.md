@@ -32,8 +32,14 @@ Este proyecto es una simulación interactiva de un **robot móvil diferencial** 
 ## Requisitos
 
 Antes de ejecutar el programa, asegúrate de tener instaladas las siguientes bibliotecas:
-
 - **Pygame**
 - **Matplotlib**
 - **NumPy**
+### Clonar el Repositorio
+    git clone https://github.com/moises60/Simulacion_robot_movil_con_controlador_PID.git
 
+### Acceder a la Carpeta
+    cd Simulacion_robot_movil_con_controlador_PID
+    
+### Ejecutar el Juego
+    python3 main.py
